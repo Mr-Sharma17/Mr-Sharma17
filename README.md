@@ -3,9 +3,9 @@
 
 > I belongs to *[Uttarakhand](https://en.wikipedia.org/wiki/Uttarakhand)*, *[India](https://en.wikipedia.org/wiki/India)*. I am a detail-oriented Front-End Developer, loves to convert imagination and creativity into code. 
 > 
-> - I’m currently learning MERN Stack. 
-> - I’m looking to collaborate on React projects. 
-> - Ask me about HTML and CSS. 
+> - I’m currently learning React. 
+<!-- > - I’m looking to collaborate on React projects.  -->
+> - Ask me about HTML, JS and CSS. 
 > - I have a degree in Civil Engineering. 
 > - Have a look at my repositories : *[My Repos](https://github.com/Mr-Sharma17?tab=repositories)* 
 > - Drop me a mail at : <as.ashishsharma.980@gmail.com> 
