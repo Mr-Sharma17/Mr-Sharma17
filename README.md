@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=40&pause=2000&color=04FF1B&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%F0%9F%99%8F+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste);My+name+is+Ashish+Sharma;I+am+a+Front-End+Developer.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=40&pause=1000&color=04FF1B&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%F0%9F%99%8F+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste);My+name+is+Ashish+Sharma;I+am+a+Front-End+Developer.)](https://git.io/typing-svg) 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"> 
 
 > I belongs to *[Uttarakhand](https://en.wikipedia.org/wiki/Uttarakhand)*, *[India](https://en.wikipedia.org/wiki/India)*. I am a detail-oriented Front-End Developer, loves to convert imagination and creativity into code. 
@@ -20,10 +20,10 @@
 ### Weapons in my Arsnel : 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 
-<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
  -->
 
 ### Magical figures of my GitHub : 
