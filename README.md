@@ -6,7 +6,6 @@
 > - I’m currently learning React. 
 <!-- > - I’m looking to collaborate on React projects.  -->
 > - Ask me about HTML, JS and CSS. 
-> - I have a degree in Civil Engineering. 
 > - Have a look at my repositories : *[My Repos](https://github.com/Mr-Sharma17?tab=repositories)* 
 > - Drop me a mail at : *[Mail me](as.ashishsharma.980@gmail.com)*
 
